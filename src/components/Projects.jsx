@@ -12,7 +12,7 @@ const Projects = () => {
         <div className='grid sm:grid-cols-2 gap-12 mt-5'>
         <ProjectItem img={yara} title='E-commerce' />
         <ProjectItem img={frigate} title='Admin Panel' />
-        <ProjectItem img={dalle} title='DALL-Clone' />
+        <ProjectItem img={dalle} title='DALLE-AI-Clone' />
         </div>
     </div>
   )
