@@ -5,7 +5,7 @@ const Resume = () => {
     <div id="resume" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
         <div className="text-center py-4 text-4xl font-bold text-purple-900">About</div>
         <div className="text-2xl">
-        <p>Hello! I&apos;m  Jayasundar Raajan, Aspiring Full stack web developer.
+        <p className="text-center">Hello! I&apos;m  Jayasundar Raajan, Aspiring Full stack web developer.
             Recently,Completed Mern Stack Course and also internship as a Front-end developer.Now,
             I&apos;m just expanding my skills in 
             three.js and framer motion to create 3D animating websites.
